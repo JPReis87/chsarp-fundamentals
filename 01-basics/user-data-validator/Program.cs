@@ -1,0 +1,1 @@
+﻿// Objetivo: criar um programa de consola em que: 1. Pede dados do utilizador, 2. Valida esses dados, 3. Usa lógica básica corretamente
